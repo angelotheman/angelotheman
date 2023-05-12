@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ansible, Salesforce and Google IT Support**
 
-- 📝 I regularly write articles on [https://www.hasnode.com/@angelotheman](https://www.hasnode.com/@angelotheman)
+- 📝 I regularly write articles on [https://www.hashnode.com/@angelotheman](https://www.hasnode.com/@angelotheman)
 
 - 💬 Ask me about **terraform, cloud solutions, SQL**
 
