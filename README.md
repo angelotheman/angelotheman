@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kwabenaatwumasi@gmail.com**
 
-- 📄 Know about my experiences [https://1drv.ms/b/s!Aq2xwcnm26Ks1Wbz-EKFqHH5TeSg?e=6W9eHK](https://1drv.ms/b/s!Aq2xwcnm26Ks1Wbz-EKFqHH5TeSg?e=6W9eHK)
+- 📄 Know about my experiences [View my Resume](https://1drv.ms/b/s!Aq2xwcnm26Ks1Wbz-EKFqHH5TeSg?e=6W9eHK)
 
 - ⚡ Fun fact **I play piano and love varieties of food**
 
