@@ -5,9 +5,9 @@ DevOps Engineer | Data Engineer | Technical Writer
 --------------------------------------------------
 
 * 🌍  I'm based in Accra, Ghana
-* 🖥️  See my portfolio at [My Portfolio](http://linktr.ee/angelotheman)
+* 🖥️  See my portfolio at [My Portfolio](https://linktr.ee/angelotheman)
 * ✉️  You can contact me at [kwabenaatwumasi@gmail.com](mailto:kwabenaatwumasi@gmail.com)
-* 🚀  I'm currently working on [Building a Great Profile](http://www.cloudskillsboost.google/public_profiles/9ec58be3-785a-418e-b08d-6fe19c06b99a)
+* 🚀  I'm currently working on [Building a Great Profile](https://www.cloudskillsboost.google/public_profiles/9ec58be3-785a-418e-b08d-6fe19c06b99a)
 * 🧠  I'm learning Data Architecture
 * 🤝  I'm open to collaborating on Technical Documentation, Building and Deploying Pipelines (Data, and CI/CD)
 * ⚡  I play the piano 🎹 and loves swimming 🏊🏾‍♂️
